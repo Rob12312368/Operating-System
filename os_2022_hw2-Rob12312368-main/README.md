@@ -6,3 +6,5 @@ Requirement
 4. The kernel module gets and records the runtime and context switch times of the thread  
 5. The multithreaded program reads the proc entry to get the runtime and context switch information  
 6. The multithreaded program displays the information on the console  
+
+For more information, pleas refer to the pdf file I include in this directory.
