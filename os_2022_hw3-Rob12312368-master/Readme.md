@@ -53,3 +53,5 @@ iv. start: Start or resume simulation
 ○ Timer should stop in the shell mode and resume when the simulation resumes  
 ○ When the simulation is over, switch back to shell mode after printing a message in the format:
 Simulation over.  
+
+These are the main requirement of this homework, please refer to the pdf file for more information.
