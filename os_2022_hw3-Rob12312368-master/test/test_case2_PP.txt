@@ -1,0 +1,96 @@
+Task aaa is ready.
+Task ccc is ready.
+Task ddd is ready.
+Task eee is ready.
+Task fff is ready.
+Start simulation.
+Task fff is running.
+Task fff gets resources 5.
+Task fff goes to sleep.
+Task fff is running.
+Task fff is running.
+Task fff is running.
+Task fff is running.
+Task fff is running.
+Task fff is running.
+Task fff is running.
+Task fff is running.
+Task fff gets resources 4.
+Task fff gets resources 6.
+Task fff goes to sleep.
+Task fff is running.
+Task fff is running.
+Task fff is running.
+Task fff is running.
+Task fff releases resource 4.
+Task fff releases resource 5.
+Task fff releases resource 6.
+Task fff has terminated.
+Task aaa is running.
+Task aaa gets resources 0.
+Task aaa gets resources 1.
+Task aaa gets resources 2.
+Task aaa goes to sleep.
+Task aaa is running.
+Task aaa is running.
+Task aaa is running.
+Task aaa is running.
+Task aaa is running.
+Task aaa is running.
+Task aaa is running.
+Task aaa releases resource 0.
+Task aaa releases resource 1.
+Task aaa releases resource 2.
+Task aaa has terminated.
+Task eee is running.
+Task eee gets resources 0.
+Task eee gets resources 4.
+Task eee gets resources 7.
+Task eee goes to sleep.
+Task eee is running.
+Task eee is running.
+Task eee is running.
+Task eee is running.
+Task eee releases resource 0.
+Task eee releases resource 4.
+Task eee releases resource 7.
+Task eee has terminated.
+Task ddd is running.
+Task ddd gets resources 1.
+Task ddd gets resources 3.
+Task ddd gets resources 6.
+Task ddd goes to sleep.
+Task ddd is running.
+Task ddd is running.
+Task ddd is running.
+Task ddd is running.
+Task ddd is running.
+Task ddd is running.
+Task ddd is running.
+Task ddd is running.
+Task ddd releases resource 1.
+Task ddd releases resource 3.
+Task ddd releases resource 6.
+Task ddd has terminated.
+Task ccc is running.
+Task ccc gets resources 2.
+Task ccc gets resources 4.
+Task ccc goes to sleep.
+CPU idle.
+CPU idle.
+CPU idle.
+CPU idle.
+CPU idle.
+Task ccc is running.
+Task ccc releases resource 2.
+Task ccc releases resource 4.
+Task ccc has terminated.
+Simulation over.
+  TID|      name|     state|   running|   waiting|turnaround| resources  priority
+---------------------------------------------------------------------------
+    1|       aaa|TERMINATED|         7|        12|        19|      none         2
+    2|       ccc|TERMINATED|         6|        31|        37|      none         5
+    3|       ddd|TERMINATED|         8|        23|        31|      none         4
+    4|       eee|TERMINATED|         4|        19|        23|      none         3
+    5|       fff|TERMINATED|        12|         0|        12|      none         1
+

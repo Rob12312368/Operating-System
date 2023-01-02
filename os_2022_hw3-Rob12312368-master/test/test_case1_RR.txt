@@ -1,0 +1,190 @@
+ running.
+Task www is running.
+Task www gets resources 5.
+Task www goes to sleep.
+Task zzz is running.
+Task zzz is waiting resource.
+Task aaa is running.
+Task bbb is running.
+Task ccc is running.
+Task ddd is running.
+Task eee is running.
+Task fff is running.
+Task ggg is running.
+Task hhh is running.
+Task iii is running.
+Task jjj is running.
+Task kkk is running.
+Task lll is running.
+Task mmm is running.
+Task nnn is running.
+Task ooo is running.
+Task ppp is running.
+Task qqq is running.
+Task rrr is running.
+Task sss is running.
+Task ttt is running.
+Task uuu is running.
+Task www is running.
+Task www releases resource 1.
+Task www releases resource 4.
+Task www releases resource 5.
+Task www has terminated.
+Task zzz is running.
+Task aaa is running.
+Task bbb is running.
+Task ccc is running.
+Task ddd is running.
+Task eee is running.
+Task fff is running.
+Task ggg is running.
+Task hhh is running.
+Task iii is running.
+Task jjj is running.
+Task kkk is running.
+Task lll is running.
+Task mmm is running.
+Task nnn is running.
+Task ooo is running.
+Task ppp is running.
+Task qqq is running.
+Task rrr is running.
+Task sss is running.
+Task ttt is running.
+Task uuu is running.
+Task zzz is running.
+Task zzz gets resources 0.
+Task zzz gets resources 4.
+Task zzz gets resources 7.
+Task zzz goes to sleep.
+Task aaa is running.
+Task bbb is running.
+Task ccc is running.
+Task ddd is running.
+Task eee is running.
+Task eee has terminated.
+Task fff is running.
+Task ggg is running.
+Task hhh is running.
+Task iii is running.
+Task jjj is running.
+Task kkk is running.
+Task lll is running.
+Task mmm is running.
+Task nnn is running.
+Task ooo is running.
+Task ppp is running.
+Task qqq is running.
+Task rrr is running.
+Task sss is running.
+Task ttt is running.
+Task uuu is running.
+Task zzz is running.
+Task zzz releases resource 0.
+Task zzz releases resource 4.
+Task zzz releases resource 7.
+Task zzz has terminated.
+Task aaa is running.
+Task aaa has terminated.
+Task bbb is running.
+Task ccc is running.
+Task ccc has terminated.
+Task ddd is running.
+Task fff is running.
+Task ggg is running.
+Task ggg has terminated.
+Task hhh is running.
+Task iii is running.
+Task iii has terminated.
+Task jjj is running.
+Task jjj has terminated.
+Task kkk is running.
+Task lll is running.
+Task mmm is running.
+Task mmm has terminated.
+Task nnn is running.
+Task ooo is running.
+Task ooo has terminated.
+Task ppp is running.
+Task qqq is running.
+Task qqq has terminated.
+Task rrr is running.
+Task rrr has terminated.
+Task sss is running.
+Task ttt is running.
+Task uuu is running.
+Task bbb is running.
+Task bbb has terminated.
+Task ddd is running.
+Task ddd has terminated.
+Task fff is running.
+Task fff has terminated.
+Task hhh is running.
+Task kkk is running.
+Task kkk has terminated.
+Task lll is running.
+Task lll has terminated.
+Task nnn is running.
+Task nnn has terminated.
+Task ppp is running.
+Task sss is running.
+Task ttt is running.
+Task uuu is running.
+Task hhh is running.
+Task hhh has terminated.
+Task ppp is running.
+Task ppp has terminated.
+Task sss is running.
+Task ttt is running.
+Task uuu is running.
+Task sss is running.
+Task ttt is running.
+Task uuu is running.
+Task sss is running.
+Task ttt is running.
+Task ttt has terminated.
+Task uuu is running.
+Task sss is running.
+Task sss has terminated.
+Task uuu is running.
+Task uuu is running.
+Task uuu is running.
+Task uuu is running.
+Task uuu is running.
+Task uuu is running.
+Task uuu is running.
+Task uuu is running.
+Task uuu is running.
+Task uuu is running.
+Task uuu is running.
+Task uuu has terminated.
+Simulation over.
+  TID|      name|     state|   running|   waiting|turnaround| resources
+---------------------------------------------------------------------------
+    1|       aaa|TERMINATED|         8|       176|       184|      none
+    2|       bbb|TERMINATED|         9|       186|       195|      none
+    3|       ccc|TERMINATED|         8|       177|       185|      none
+    4|       ddd|TERMINATED|         9|       186|       195|      none
+    5|       eee|TERMINATED|         7|       161|       168|      none
+    6|       fff|TERMINATED|         9|       186|       195|      none
+    7|       ggg|TERMINATED|         8|       179|       187|      none
+    8|       hhh|TERMINATED|        10|       190|       200|      none
+    9|       iii|TERMINATED|         8|       180|       188|      none
+   10|       jjj|TERMINATED|         8|       180|       188|      none
+   11|       kkk|TERMINATED|         9|       187|       196|      none
+   12|       lll|TERMINATED|         9|       187|       196|      none
+   13|       mmm|TERMINATED|         8|       182|       190|      none
+   14|       nnn|TERMINATED|         9|       187|       196|      none
+   15|       ooo|TERMINATED|         8|       183|       191|      none
+   16|       ppp|TERMINATED|        10|       190|       200|      none
+   17|       qqq|TERMINATED|         8|       184|       192|      none
+   18|       rrr|TERMINATED|         8|       184|       192|      none
+   19|       sss|TERMINATED|        13|       195|       208|      none
+   20|       ttt|TERMINATED|        12|       195|       207|      none
+   21|       uuu|TERMINATED|        23|       195|       218|      none
+   22|       vvv|TERMINATED|         1|        41|        47|      none
+   23|       www|TERMINATED|         5|       134|       141|      none
+   24|       xxx|TERMINATED|         2|        67|        73|      none
+   25|       yyy|TERMINATED|         2|        65|        73|      none
+   26|       zzz|TERMINATED|         7|       175|       184|      none
+
