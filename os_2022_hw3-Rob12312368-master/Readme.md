@@ -7,7 +7,7 @@ should not be modified
 ○ Implement task state-related APIs that can be used by the tasks (described in slide 10-11)  
 i. void task_sleep(int msec_10);  
 ii. void task_exit();  
-4  
+  
 Requirement (2/5)  
 2. Task scheduler  
 ○ Use ucontext and the related APIs to do context switch  
@@ -21,6 +21,7 @@ Requirement (2/5)
 Task {task_name} is running.  
 ○ If there are no tasks to be scheduled, but there are still tasks waiting, print a message in the format:  
 CPU idle.  
+  
 Requirement (3/5)  
 3. Resource handler  
 ○ Implement resource-related APIs that can be used by the task (described in slide 12-13)  
@@ -29,7 +30,7 @@ ii. void release_resource(int count, int *resource_list);
 ○ There should be 8 resources with id 0-7 in the simulation.  
 ○ How to simulate resources is up to your design. For example, you can use a boolean array,
 resource_available = { true, false, true, .... }  
-7  
+  
 Requirement (4/5)  
 4. Timer & signal handler  
 ○ Use related system calls to set a timer that should send a signal (SIGVTALRM) every 10 ms  
@@ -37,8 +38,7 @@ Requirement (4/5)
 i. Calculate all task-related time (granularity: 10ms)  
 ii. Check if any tasks' state needs to be switched  
 iii. Decide whether re-scheduling is needed  
-8  
-Ctrl + z or simulation over  
+  
 Requirement (5/5)  
 5. Command line interface  
 ○ Use HW1’s shell as the simulator’s CLI (HW1’s code is provided by TA, you can also use your own
